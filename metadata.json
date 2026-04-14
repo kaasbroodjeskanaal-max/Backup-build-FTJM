@@ -1,0 +1,5 @@
+{
+  "name": "FTJM Forum Chat",
+  "description": "A real-time chat application powered by Supabase, featuring forum-style messaging and backup capabilities.",
+  "requestFramePermissions": []
+}
